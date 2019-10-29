@@ -59,4 +59,5 @@ client.on('message', msg => {
     }
 });
 
-client.login('NTk2MDczMTc0OTgzMTE0Nzcw.XR2xzQ.JoIG-nWugkdNLhU5QL9pXqEsFKI');
+// Put secret discord key here
+client.login('');
